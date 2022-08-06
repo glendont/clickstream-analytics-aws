@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "cognitoConfig": {
+    "identityPoolName": "clickstreamanalytics_identitypool_73312421",
+    "allowUnauthenticatedIdentities": true,
+    "authSelections": "identityPoolOnly",
+    "resourceName": "clickstreamanalytics",
+    "sharedId": "73312421",
+    "serviceName": "Cognito",
+    "useDefault": "manual"
+  }
+}

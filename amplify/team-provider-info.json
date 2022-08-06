@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-clickstreamanalytics-dev-54735-authRole",
+      "UnauthRoleArn": "arn:aws:iam::891048848327:role/amplify-clickstreamanalytics-dev-54735-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::891048848327:role/amplify-clickstreamanalytics-dev-54735-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-clickstreamanalytics-dev-54735-deployment",
+      "UnauthRoleName": "amplify-clickstreamanalytics-dev-54735-unauthRole",
+      "StackName": "amplify-clickstreamanalytics-dev-54735",
+      "StackId": "arn:aws:cloudformation:us-east-1:891048848327:stack/amplify-clickstreamanalytics-dev-54735/645a96c0-15d1-11ed-8941-121a3e1e60c1",
+      "AmplifyAppId": "doqcjxyrqmvtq"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "doqcjxyrqmvtq",
+          "type": "cicd"
+        }
+      },
+      "auth": {
+        "undefined": {}
+      }
+    }
+  }
+}

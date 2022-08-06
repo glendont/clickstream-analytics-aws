@@ -1,0 +1,21 @@
+{
+    "appName": "clickstreamanalytics",
+    "roleName": "pinpointLambdaRoleb4efb171",
+    "cloudformationPolicyName": "cloudformationPolicyb4efb171",
+    "cloudWatchPolicyName": "cloudWatchPolicyb4efb171",
+    "pinpointPolicyName": "pinpointPolicyb4efb171",
+    "authPolicyName": "pinpoint_amplify_b4efb171",
+    "unauthPolicyName": "pinpoint_amplify_b4efb171",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}
